@@ -1,5 +1,5 @@
 TEMPLATE = subdirs
 
 SUBDIRS += \
-    Creational \
-    Structural
+    Adapter \
+    Bridge
